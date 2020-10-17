@@ -1,0 +1,5 @@
+http://jukkajauhiainen.ipt.oamk.fi/~t7alaa01/kauppa/read.php
+
+http://jukkajauhiainen.ipt.oamk.fi/~t7alaa01/lisaa_tuote.html
+
+http://jukkajauhiainen.ipt.oamk.fi/~t7alaa01/kauppa/create.php
